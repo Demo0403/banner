@@ -1,0 +1,31 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#div1{
+	width: 700px;
+	height: 500px;
+	background-color: red;
+	margin: 120px auto;
+}
+
+#btn1{
+	width: 50px;
+	height: 45px;
+	float: left;
+	position: relative;
+	top: 250px;
+}
+
+#btn2{
+	float: right;
+	width: 50px;
+	height: 45px;
+	position: relative;
+	top: 250px;
+}
+
+#img{
+	
+}
